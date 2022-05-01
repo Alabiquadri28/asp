@@ -1,0 +1,356 @@
+body{ 
+    height: 150vh;
+    background: linear-gradient(135deg,#fff, #e5e2dc);
+}
+.don{
+    height: 600px;
+    width: 400px;
+    background: linear-gradient(45deg, hsl(264, 100%, 61%),hsl(293, 100%, 63%));
+    position: absolute;
+    top: -20px;
+    left: -20px;
+    border-bottom-right-radius: 180px;
+    border-bottom-left-radius:180px ;   
+
+}
+
+.bop{
+    height: 470px;
+    width: 270px;
+    background-color:  hsl(270, 20%, 96%);
+    border: 10px solid white;
+    position: absolute;
+    left: 21.5%;
+    top: 10%;
+    border-radius: 20px;
+}
+.noy{
+    height: 85px;
+    width: 270px;
+    background:linear-gradient(45deg, hsl(264, 100%, 61%),hsl(293, 100%, 63%)) ;
+    border-top-left-radius:10px ;
+    border-top-right-radius:10px ;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.noy:hover{
+    background-color: white;
+    
+   
+}
+.lop{
+    height: 30px;
+    width: 150px;
+    background-color: white;
+    position: absolute;
+    left: 25%;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+#wes{
+    height: 25px;
+    width: 180px;
+   background: rgb(232, 224, 232);
+   color:rgb(20, 1, 20) ;
+   margin-bottom: 5px;
+   position: relative;
+   left: 7px;
+   top: 9px;
+   border-radius: 7px;
+   padding-left: 6px;
+   padding-top: 6px;
+   font-size:10px;
+
+}
+.biy{
+    display:inline-flex;
+    height: 40px;
+    width: 40px;
+    position: relative;
+    left: 50%;
+    margin: 10px;
+    
+}
+.ba{
+    height: 30px;
+    width: 50px;
+    border-radius: 10px;
+    
+}
+.ba:hover{
+    border: solid rgb(101, 5, 101);
+}
+.ka{
+    height: 30px;
+    width: 50px;
+    margin: 3px;
+    border-radius: 10px;
+
+}
+.ka:hover{
+    border: solid rgb(101, 5, 101);
+
+}
+.la{
+    height: 30px;
+    width: 50px;
+    border-radius: 10px;
+
+}
+.la:hover{
+    border: solid rgb(101, 5, 101);
+}
+.co{
+    height: 27px;
+    width: 130px;
+    background-color:#e3dbca ;
+    color: black;
+    border-radius: 10px;
+    margin-top: -10px;
+    position:absolute;
+    left: 46%;
+    font-size:10px;
+    padding-left: 7px;
+    
+}
+.bo{
+    height: 20px;
+    width: 70px;
+    background-color:#e0dbcf;
+    color: black;
+    border-radius: 10px;
+    margin-top: -15px;
+    position:absolute;
+    left: 68%;
+    top: 55%;
+    font-size:10px;
+    padding-left: 7px;
+    padding-top: 7px;
+
+}
+.ser{
+    height: 30px;
+    width: 180px;
+    background: rgb(228, 216, 228);
+    border-radius: 10px;
+    margin-top: 73px;
+    padding-left: 3px;
+    padding-top: 3px;
+    position: relative;
+    left: 7px;
+    font-size:10px;
+    padding-left: 7px;
+    padding-top: 7px;
+
+
+}
+.flr{
+height:30px ;
+width:180px ;
+background: linear-gradient(45deg, hsl(264, 100%, 61%),hsl(293, 100%, 63%));
+padding-left: 3px;
+padding-top: 3px;
+margin-top: 3px;
+border-radius: 5px;
+position: relative;
+left: 7px;
+display: inline-flex;
+
+font-size: 10px;
+}
+#ke{
+    position: absolute;
+    top: 415px;
+    left: 6px;
+    height: 40px;
+    width: 250px;
+  background-color: #e4e0d8;
+  border-top: transparent;
+  border-bottom: transparent;
+  border-left: transparent;
+  border-right: transparent;
+  border-radius: 15px;
+  padding-left: 10px;
+}
+
+.set{
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    left: 20px;
+    top: 40px;
+    border-radius: 30px;
+}
+.set:hover{
+    border: solid white;
+}
+.ds{
+    font-size: 12px;
+    position: absolute;
+    top:30px ;
+    left:60px ;
+    color: white;
+}
+.ds:hover{
+    background-color: white;
+    color: rgb(101, 5, 101);
+
+}
+.ss{
+    font-size: 10px;
+    font-weight: lighter;
+    color: white;
+    position: absolute;
+    top:45px ;
+    left:60px ;
+}
+.ss:hover{
+    background-color: white;
+    color: rgb(101, 5, 101);
+
+}
+.big{
+   font-size: 30px;
+   position: absolute;
+   top: 30%;
+   left: 57%;
+   color:  rgb(101, 5, 101);
+}
+.note{
+    position: absolute;
+    top: 40%;
+    left: 57%;
+    width: 25rem;
+    color: rgb(101, 5, 101) ;
+
+}
+.as{
+    height: 15px;
+    width: 15px;
+    background-color:hsl(289, 100%, 72%) transparent ;
+    border: 0.5px solid white;
+    position: relative;
+    top: 8%;
+    left: 10px;
+    border-radius: 10px;
+    
+}
+.qe{
+   position: relative;
+   left: 35px;
+   font-size: 10px;
+   color: white;
+   top: 20%;
+}
+.to{
+    position: absolute;
+    left: 80%;
+    font-size: 15px;
+    top: 8%;
+    color: white;
+    font-weight: bold;
+}
+#gor{
+    position: absolute;
+    left: 94%;
+    top: 9%;
+    color: white;
+}
+#gor:hover{
+    color: rgb(101, 5, 101);
+    height: 20px;
+    width: 10px;
+    background-color: white;
+    transition: 1s;
+}
+#got{
+    position: absolute;
+    left: 2.5%;
+    top: 9%;
+    color: white;
+}
+#got:hover{
+    color: rgb(101, 5, 101);
+    height: 20px;
+    width: 10px;
+    background-color: white;
+    transition: 0.5s;
+}
+#gos{
+    position: absolute;
+    left: 85%;
+    top: 89.5%;
+    background-color:  hsl(271, 36%, 24%);
+    
+ 
+    height: 30px;
+    width: 30px;
+    color: white;
+   text-align: center;
+   line-height: 2;
+   border-radius: 20px;
+    
+}
+#gos:hover{
+    color: rgb(101, 5, 101);
+    height: 20px;
+    width: 10px;
+    background-color: white;
+    transition: 1s;
+}
+.for{
+    height: 17px;
+    width: 40px;
+    background:linear-gradient(45deg, hsl(264, 100%, 61%),hsl(293, 100%, 63%));
+    position: absolute;
+    left: 45%;
+    top: -1px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+@media screen and (max-width:768px){
+.note{
+    position: absolute;
+    top: 110% ;
+    left: 10%;
+    width: 23rem;
+    color: rgb(99, 2, 190);
+}
+.big{
+    position: absolute;
+    top: 100% ;
+    left: 20%;
+}
+.bop{
+    position: absolute;
+    left: 18%;
+}
+.don{
+    position: absolute;
+    left: -27%;
+}
+} 
+@media screen and (max-width:375px){
+    .note{
+    position: absolute;
+    top: 100% ;
+    left: 5%;
+    color: rgb(99, 2, 190);
+    width: 20rem;
+    }
+    .big{
+        position: absolute;
+        top: 90% ;
+        left: 15%;
+    }
+    .bop{
+        position: absolute;
+        left: 10%;
+    }
+    .don{
+        position: absolute;
+        left: -60%;
+
+    }
+}
